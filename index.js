@@ -262,7 +262,7 @@ async function run() {
          res.send(result);
       });
 
-      // temporary to update price field on appointment options(practice korio)
+      // temporary to update price field on appointment options(practice korio.Ata kintu add kore tarpor cmnt korse mone rakhio)
       // app.get('/addPrice', async (req, res) => {
       //    const filter = {}
       //    const options = { upsert: true }
